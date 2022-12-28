@@ -1,0 +1,11 @@
+student=[[46,'Pravin',73,78],[66,'Yuvaraja',70,77],[63,'Uma',72,87],[42,'Pavan',77,89]]
+student.sort()
+print(student)
+student.sort(key=lambda temp:temp[2])
+print(student)
+student.sort(key=lambda temp:temp[3])
+print(student)
+student.sort(key=lambda temp:temp[-1])
+print(student)
+student.sort(key= temp:temp[2])
+print(student)
