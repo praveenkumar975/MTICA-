@@ -1,0 +1,6 @@
+print('abc'+str(5))
+#print('abc'*str(5))
+#print('abc'+5)
+print('abc'*5)
+#print('abc'+float(5.0))
+print(str(3.0)*3)
